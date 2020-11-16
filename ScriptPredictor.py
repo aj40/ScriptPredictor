@@ -1,9 +1,6 @@
 # Alex Johnson
 #
 # Script Predictor
-# 
-# Input a folder scripts to build a database using:
-# Input scripts to predict their genre using:
 #
 # Input Scripts should have their genre listed on the first line of the .txt file.
 
